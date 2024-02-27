@@ -1,0 +1,13 @@
+1.Open lab on simplilearn platform
+
+2. create the resourse through the sql
+
+3. choose the respecticve required options.
+
+4. Give servername and password
+
+5. open msvs and choose the web application .netframework
+
+6. code the snippet for need and available for a webform
+
+7.Then set up connection string and run.
